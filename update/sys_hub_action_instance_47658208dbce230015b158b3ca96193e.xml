@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Property">7f0e6948db8e230015b158b3ca961999</action_type>
+        <action_type_parent display_value="Get Property">9c0515c8db4e230015b158b3ca9619c9</action_type_parent>
+        <comment/>
+        <compiled_snapshot display_value="Get Property">7f0e6948db8e230015b158b3ca961999</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Find and Close long overdue NeedIt task">cf658208dbce230015b158b3ca961930</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-23 14:24:40</sys_created_on>
+        <sys_id>47658208dbce230015b158b3ca96193e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_47658208dbce230015b158b3ca96193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-23 14:24:40</sys_updated_on>
+        <ui_id>f7aedbc3-d2b4-434e-b63d-b105a4a1e17a</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=47658208dbce230015b158b3ca96193e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>47658208dbce230015b158b3ca96193e</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-23 14:24:40</sys_created_on>
+        <sys_id>93658208dbce230015b158b3ca961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-23 14:24:40</sys_updated_on>
+        <value>x_58872_needit.autoCloseOverdue</value>
+        <variable display_value="">7b0e6948db8e230015b158b3ca96199c</variable>
+    </sys_variable_value>
+</record_update>
